@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JogoPedraPapelTesoura</string>
+    <string name="escolha_do_app">Escolha do App</string>
+    <string name="escolha_uma_op_o_abaixo">Escolha uma opção abaixo</string>
+    <string name="pedra">pedra</string>
+    <string name="papel">papel</string>
+    <string name="tesoura">tesoura</string>
+</resources>
