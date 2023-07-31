@@ -1,5 +1,5 @@
 # PedraPapelTesoura
- Jogo de pedra, papel e tesoura do curso de desenvolvimento Android
+ <h1 align="center">Jogo de pedra, papel e tesoura desenvolvido no curso de desenvolvimento Android!</h1>
 
  <br>
 
